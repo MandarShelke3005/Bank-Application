@@ -1,6 +1,6 @@
 # Bank-Application
 
-this is Simple Bank Application using Object Oriented Programming.
+This is Simple Bank Application using Object Oriented Programming.
 
 Here,In this project I implemented various java oops concept.Such as Inheritance,Encapsulation,Polymorphism.
 
